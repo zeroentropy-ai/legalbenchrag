@@ -1,6 +1,7 @@
 # LegalBench-RAG
 
 This repository contains the LegalBench-RAG benchmark, which can test any retrieval system over the task of identifying the correct snippets that answer a given query.
+LegalBench-RAG allows to compute precision and recall at the character level for any given retrieval system in a deterministic way.
 
 # Download
 
